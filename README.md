@@ -1,1 +1,1 @@
-# Internship_Tracker
+# Internship Tracker
